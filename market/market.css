@@ -1,0 +1,74 @@
+#container{
+    max-width: 1080px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-top: 1px solid rgb(11, 11, 11);
+    border-bottom: 0;
+    padding: 100px 16px;
+}
+#logo{
+    width: 95px;
+}
+#jjj { width: 50%;
+
+}
+#sign{
+    width: 80px;
+}
+#lebel{
+    width: 100%;
+}
+#ooo{
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+#ooo th{
+    width: 50%;
+    text-align: left;
+    background-color: rgb(145, 151, 149);
+}
+#ooo td{
+    text-align: right;
+}
+#cream{
+    width: 95px;
+}
+#ttt{
+    text-align: left;
+}
+#sss{
+
+}
+#bottle{
+    text-align: left;
+    width: 100%;
+    border: 1px solid black;
+}
+#bottle td{
+    width: 20%;
+}
+#bottle td:nth-child(2){
+    width: 40%;
+}
+#centre{ 
+    text-align: center;
+
+}
+#space{padding-left: 30px;
+    line-height: 20px;
+}
+#bolu{width: 100%;
+    border: 1px solid black;
+
+}
+ul{
+    list-style: none;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
