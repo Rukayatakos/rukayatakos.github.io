@@ -1,0 +1,23 @@
+body {background-color: rgb(14, 25, 36);}
+#container{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+blockquote{
+    margin-left: 50px;
+}
+table{
+    border-collapse: collapse;
+}
+td {
+    width: 32%;
+    height: 230px;
+}
+img {
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+button {background-color: yellow;}
